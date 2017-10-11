@@ -1,1 +1,0 @@
-document.write("<h1>This is a good!</h1>");
